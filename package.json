@@ -1,0 +1,39 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is my new react learning",
+  "scripts": {
+    "start" : "parcel index.html",
+    "build" : "parcel build index.html",
+    "test": "jest",
+    "lecture-01": "parcel src/lecture-01/index.html",
+    "lecture-02": "parcel src/lecture-02/index.html",
+    "lecture-03": "parcel src/lecture-03/index.html",
+    "lecture-04": "parcel src/lecture-04/index.html",
+    "lecture-05": "parcel src/lecture-05/index.html",
+    "lecture-06": "parcel src/lecture-06/index.html",
+    "lecture-07": "parcel src/lecture-07/index.html",
+    "lecture-08": "parcel src/lecture-08/index.html",
+    "lecture-09": "parcel src/lecture-09/index.html",
+    "lecture-10": "parcel src/lecture-10/index.html",
+    "lecture-11": "parcel src/lecture-11/index.html",
+    "lecture-12": "parcel src/lecture-12/index.html",
+    "lecture-13": "parcel src/lecture-13/index.html",
+    "lecture-14": "parcel src/lecture-14/index.html",
+    "lecture-15": "parcel src/lecture-15/index.html",
+    "lecture-16": "parcel src/lecture-16/index.html"
+  },
+  "author": "Jaydeep Chaudhari",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist" : [
+    "last 2 versions",
+    "last 3 chrome versions"
+  ]
+}
