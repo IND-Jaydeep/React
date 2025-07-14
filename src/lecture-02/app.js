@@ -16,3 +16,6 @@ const Parent = React.createElement("div",{id : "parent"},[
 
 const root = ReactDOM.createRoot(document.getElementById("root"));// this element is present in index.html
 root.render(Parent)
+// here the oringinal element div(of id root) has "Not rendered" text in it but it will be removed form that element 
+// as soon as we do render of react element in html element the (original contents of that html element will be removed)
+// and then content inside the react element is added into html elements
